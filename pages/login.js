@@ -7,7 +7,7 @@ function login() {
     <>
       <Header />
       <FromLogin />
-      <Button>Hello</Button>
+      <Button>Tentar de outra maneira</Button>
     </>
   );
 }
